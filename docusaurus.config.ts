@@ -1,10 +1,11 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import tailwindPlugin from "./plugins/tailwind-config.cjs";
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Modded Boost',
+  tagline: 'Mod Launcher / Updater',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -17,6 +18,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'moddedboost', // Usually your GitHub org/user name.
   projectName: 'moddedboost.github.io', // Usually your repo name.
+  deploymentBranch: 'deployment',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -29,6 +31,8 @@ const config: Config = {
     locales: ['en'],
   },
 
+  plugins: [tailwindPlugin],
+  
   presets: [
     [
       'classic',
@@ -58,10 +62,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Modded Boost',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Modded Boost Logo',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -72,7 +76,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/descatal/moddedboost',
           label: 'GitHub',
           position: 'right',
         },
@@ -94,10 +98,6 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
               href: 'https://discordapp.com/invite/docusaurus',
             },
@@ -116,7 +116,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/descatal/moddedboost',
             },
           ],
         },

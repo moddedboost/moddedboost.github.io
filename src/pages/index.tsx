@@ -10,34 +10,67 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+    <div
+      className="h-[calc(100vh-74px)] flex items-center justify-center">
+      <div className="flex flex-col items-center space-y-4 text-center">
+        <div className="space-y-2">
+          <div>
+            <img alt={"logo"} src="img/logo-landing.png"
+                 className="aspect-video overflow-hidden object-contain object-center"/>
+            <h1 className="text-4xl font-bold tracking-tighter md:text-6xl lg:text-8xl">
+              Modded Boost
+            </h1>
+          </div>
+
+          <p className="mx-auto md:text-xl dark:text-gray-400">
+            A game mod for Gundam Extreme Vs. Full Boost on RPCS3
+          </p>
+        </div>
+        <div className="flex flex-col gap-2 min-[400px]:flex-row">
           <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            className="inline-flex h-11 items-center justify-center rounded-md bg-gray-900 px-8 text-sm font-medium text-gray-50 shadow transition-colors hover:bg-gray-900/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-950 disabled:pointer-events-none disabled:opacity-50 dark:bg-gray-50 dark:text-gray-900 dark:hover:bg-gray-50/90 dark:focus-visible:ring-gray-300"
+            href="https://github.com/descatal/ModdedBoost/releases"
+          >
+            Download Launcher
           </Link>
         </div>
       </div>
-    </header>
+    </div>
   );
 }
 
 export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
-    </Layout>
-  );
+    <div className={"overflow-hidden"}>
+      <div className={"absolute w-full text-center opacity-10"}>
+        <div className="g-container">
+          <div className="g-group">
+            <div className="item item-right"></div>
+            <div className="item item-left"></div>
+            <div className="item item-top"></div>
+            <div className="item item-bottom"></div>
+            <div className="item item-middle"></div>
+          </div>
+          <div className="g-group">
+            <div className="item item-right"></div>
+            <div className="item item-left"></div>
+            <div className="item item-top"></div>
+            <div className="item item-bottom"></div>
+            <div className="item item-middle"></div>
+          </div>
+        </div>
+      </div>
+      <Layout
+        title={""}
+        description="Modded Boost"
+        noFooter={true}>
+        <main>
+          <HomepageHeader/>
+        </main>
+      </Layout>
+    </div>
+
+  )
+    ;
 }
