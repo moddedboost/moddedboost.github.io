@@ -5,7 +5,7 @@ import tailwindPlugin from "./plugins/tailwind-config.cjs";
 
 const config: Config = {
   title: 'Modded Boost',
-  tagline: 'Mod Launcher / Updater',
+  tagline: 'A game mod for Gundam Extreme Vs. Full Boost on RPCS3',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -59,8 +59,13 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/logo.png',
     navbar: {
       title: 'Modded Boost',
       logo: {

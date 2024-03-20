@@ -7,23 +7,23 @@ import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
 
-function HomepageHeader() {
+function Landing() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <div
-      className="h-[calc(100vh-74px)] flex items-center justify-center">
+      className="h-[calc(100svh-74px)] flex items-center justify-center">
       <div className="flex flex-col items-center space-y-4 text-center">
         <div className="space-y-2">
           <div>
             <img alt={"logo"} src="img/logo-landing.png"
                  className="aspect-video overflow-hidden object-contain object-center"/>
             <h1 className="text-4xl font-bold tracking-tighter md:text-6xl lg:text-8xl">
-              Modded Boost
+              {siteConfig.title}
             </h1>
           </div>
 
           <p className="mx-auto md:text-xl dark:text-gray-400">
-            A game mod for Gundam Extreme Vs. Full Boost on RPCS3
+            {siteConfig.tagline}
           </p>
         </div>
         <div className="flex flex-col gap-2 min-[400px]:flex-row">
@@ -66,7 +66,7 @@ export default function Home(): JSX.Element {
         description="Modded Boost"
         noFooter={true}>
         <main>
-          <HomepageHeader/>
+          <Landing/>
         </main>
       </Layout>
     </div>
