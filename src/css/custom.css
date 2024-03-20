@@ -43,10 +43,6 @@
 
 .g-group {
   position: absolute;
-  width: 1000px;
-  height: 1000px;
-  left: -500px;
-  top: -500px;
   transform-style: preserve-3d;
   animation: move 12s infinite linear;
   animation-fill-mode: forwards;
