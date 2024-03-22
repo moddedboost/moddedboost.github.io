@@ -32,7 +32,6 @@ const config: Config = {
   },
 
   plugins: [tailwindPlugin],
-  
   presets: [
     [
       'classic',
@@ -85,6 +84,7 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
+        {to: '/changelogs', label: 'Changelogs', position: 'left'},
       ],
     },
     footer: {
