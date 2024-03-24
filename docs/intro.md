@@ -4,44 +4,30 @@ sidebar_position: 1
 
 # Modded Boost
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Modded Boost is a fan made mod for the game [Gundam Extreme Vs. Full Boost](https://gundam.fandom.com/wiki/Mobile_Suit_Gundam:_Extreme_Vs._Full_Boost)
+
+This mod builds on top of the existing game, and adds some customized units / weaponry.
+
+:::warning
+
+Due to the limitation of original PS3's hardware, this mod is only supported on RPCS3.
+
+:::
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Before you start, you must **own the original game**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+:::warning
 
-### What you'll need
+The only supported game versions for this mod are `BLJS10250` (Japan - Disc) and `NPJB00512` (PSN)
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+:::
 
-## Generate a new site
+This mod will not provide any of the base game files, it is assumed that you have a working copy of the game before you start the mod installation process.
 
-Generate a new Docusaurus site using the **classic template**.
+:::tip
 
-The classic template will automatically be added to your project after you run the command:
+Please refer to the [official RPCS3 guide](https://wiki.rpcs3.net/index.php?title=Help:Dumping_PlayStation_3_games) for more information on how to install the base game.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+:::
