@@ -65,17 +65,41 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Intro',
+          to: '/docs/intro',
+        },
+        {
+          position: 'left',
+          label: 'Launcher',
+          to: '/docs/category/launcher',
+        },
+        {
+          position: 'left',
+          label: 'Support',
+          to: '/docs/category/support',
+        },
+        {
+          position: 'left',
+          label: 'Changelogs',
+          to: '/docs/category/changelogs',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          href: 'http://discord.gg/QAUYKmvxRN',
+          label: 'Discord',
+          position: 'right',
+        },
+        {
+          href: 'https://twitter.com/descatal',
+          label: 'Twitter',
+          position: 'right',
+        },
         {
           href: 'https://github.com/descatal/moddedboost',
           label: 'GitHub',
           position: 'right',
-        }
+        },
       ],
     },
     footer: {
@@ -85,8 +109,20 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Intro',
               to: '/docs/intro',
+            },
+            {
+              label: 'Launcher',
+              to: '/docs/category/launcher',
+            },
+            {
+              label: 'Support',
+              to: '/docs/category/support',
+            },
+            {
+              label: 'Changelogs',
+              to: '/docs/category/changelogs',
             },
           ],
         },
@@ -95,11 +131,11 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'http://discord.gg/QAUYKmvxRN',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/descatal',
             },
           ],
         },
@@ -107,17 +143,12 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
               href: 'https://github.com/descatal/moddedboost',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

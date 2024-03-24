@@ -1,0 +1,15 @@
+{
+  "version": "v0.1.1",
+  "notes": "Alpha",
+  "pub_date": "2023-01-18T00:00:00Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "Content of app.AppImage.tar.gz.sig",
+      "url": "https://google.com"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTWRUWUxWVThQdytrK2JMZTNjSGVKNTBlL0Z2NnpQNVVyUEgzS2pDOFNjS0g4cXlCNFlzZ1h5VUtjYWg2MGxmRThHRGpWaWNoMXVKKzFpVFZUM0h3WU1YT2J2OG1LQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5OTg5NzI3CWZpbGU6TW9kZGVkQm9vc3RfMC4xLjFfeDY0X2VuLVVTLm1zaS56aXAKS3MvNG5hVzljMUtJbnUyU05xTnd5WnpUaENWWmlTY2NyVGp4QmM0d2trSFhQaVR2NVhVTTBxR1o2WVlvNVBNRFRXdVl0aVpQK25BWDJuMVZ1YzZxQVE9PQo=",
+      "url": "http://sa19flg08.sabkt.gdipper.com/matrix-snippet-suspense/launcher/ModdedBoost_x64_en-US.msi.zip"
+    }
+  }
+}

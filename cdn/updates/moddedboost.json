@@ -1,0 +1,15 @@
+{
+  "version": "v0.2.0",
+  "notes": "Alpha",
+  "pub_date": "2023-01-18T00:00:00Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "Content of app.AppImage.tar.gz.sig",
+      "url": "https://google.com"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTWRUWUxWVThQdzdCYUtvaHpGVG81NW9sUXNhZFk4REgrQmQweDVvQXpqRFMxQ0Q2MkNUS3hjbUhFV01JcGltem9vb29uR2p3ckJRRmJ2Y0NjWWpPNHJIcXloYzN3anc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExMjUyNjc2CWZpbGU6TW9kZGVkQm9vc3RfMC4yLjBfeDY0X2VuLVVTLm1zaS56aXAKOE8zSHF4ZG9lZnJzdHJzL29ISmtSS1pQUUdveWJudW9JV1BER2w0dXJDS2dkVjg4RjM2UXIrYWFraG5TRDh4RnUxL2Z1M2ZUMWFXa2FXa1BoRjBtQkE9PQo=",
+      "url": "https://github.com/descatal/ModdedBoost/releases/download/0.2.0/ModdedBoost_0.2.0_x64_en-US.msi.zip"
+    }
+  }
+}
