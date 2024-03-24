@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoddedboost_github_io=self.webpackChunkmoddedboost_github_io||[]).push([[1010],{9437:e=>{e.exports=JSON.parse('{"title":"Mod","slug":"/category/mod","permalink":"/docs/category/mod","navigation":{"previous":{"title":"Using the launcher","permalink":"/docs/launcher/using"},"next":{"title":"Online Play","permalink":"/docs/mod/online"}}}')}}]);
