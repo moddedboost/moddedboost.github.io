@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # Modded Boost
 
-Modded Boost是一个粉丝制作的游戏mod[Gundam Extreme Vs. Full Boost](https://gundam.fandom.com/wiki/Mobile_Suit_Gundam:_Extreme_Vs._Full_Boost)
+Modded Boost 是一个 高达vs系列 [EXVS Full Boost](https://exvsfb.fandom.com/zh/wiki/) 的粉丝向游戏 mod
 
-这个mod是建立在现有游戏的基础上，增加了一些自定义机体/武器。
+这个 mod 只是建立在现有游戏的基础上，增加了一些自定义机体/武器。
 
 :::warning
 
-由于PS3的硬件限制，这个mod只支持rps3模拟器。
+由于PS3的硬件限制，这个 mod 只支持 RPCS3 模拟器。
 
 :::
 
@@ -20,11 +20,11 @@ Modded Boost是一个粉丝制作的游戏mod[Gundam Extreme Vs. Full Boost](htt
 
 :::warning
 
-这个mod唯一支持的游戏版本是“BLJS10250”(光盘版)和“NPJB00512”(PSN版)
+这个 mod 支持的游戏版本是 `BLJS10250` (光盘版) 和 `NPJB00512` (PSN 版)
 
 :::
 
-这个mod不会提供任何本体游戏文件，请在安装mod之自行准备好本体游戏文件。
+这个 mod 不会提供任何本体游戏文件，请在安装mod之自行准备好本体游戏文件。
 
 接下来的教程将会默认你已经准备好这些文件。
 
