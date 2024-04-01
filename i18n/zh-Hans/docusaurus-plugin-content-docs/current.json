@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Launcher": {
+    "message": "启动器",
+    "description": "The label for category Launcher in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mod": {
+    "message": "Mod",
+    "description": "The label for category Mod in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Support": {
+    "message": "援助",
+    "description": "The label for category Support in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Changelogs": {
+    "message": "更新履历",
+    "description": "The label for category Changelogs in sidebar tutorialSidebar"
+  }
+}
