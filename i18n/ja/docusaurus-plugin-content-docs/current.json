@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "次",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Launcher": {
+    "message": "ランチャー",
+    "description": "The label for category Launcher in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mod": {
+    "message": "Mod",
+    "description": "The label for category Mod in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Support": {
+    "message": "サポート",
+    "description": "The label for category Support in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Changelogs": {
+    "message": "変更履歴",
+    "description": "The label for category Changelogs in sidebar tutorialSidebar"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Modded Boost",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Modded Boost Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Intro": {
+    "message": "イントロ",
+    "description": "Navbar item with label Intro"
+  },
+  "item.label.Launcher": {
+    "message": "ランチャー",
+    "description": "Navbar item with label Launcher"
+  },
+  "item.label.Support": {
+    "message": "サポート",
+    "description": "Navbar item with label Support"
+  },
+  "item.label.Changelogs": {
+    "message": "変更履歴",
+    "description": "Navbar item with label Changelogs"
+  },
+  "item.label.Discord": {
+    "message": "Discord",
+    "description": "Navbar item with label Discord"
+  },
+  "item.label.Twitter": {
+    "message": "Twitter",
+    "description": "Navbar item with label Twitter"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

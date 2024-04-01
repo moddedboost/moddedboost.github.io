@@ -1,0 +1,42 @@
+{
+  "link.title.Docs": {
+    "message": "ドキュメント",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "コミュニティ",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "その他",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Intro": {
+    "message": "イントロ",
+    "description": "The label of footer link with label=Intro linking to /docs/intro"
+  },
+  "link.item.label.Launcher": {
+    "message": "ランチャー",
+    "description": "The label of footer link with label=Launcher linking to /docs/category/launcher"
+  },
+  "link.item.label.Support": {
+    "message": "サポート",
+    "description": "The label of footer link with label=Support linking to /docs/category/support"
+  },
+  "link.item.label.Changelogs": {
+    "message": "変更履歴",
+    "description": "The label of footer link with label=Changelogs linking to /docs/category/changelogs"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to http://discord.gg/QAUYKmvxRN"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/descatal"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/descatal/moddedboost"
+  }
+}
