@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoddedboost_github_io=self.webpackChunkmoddedboost_github_io||[]).push([[8338],{131:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/ja/blog/tags/hola","allTagsPath":"/ja/blog/tags","count":1,"unlisted":false}')}}]);
