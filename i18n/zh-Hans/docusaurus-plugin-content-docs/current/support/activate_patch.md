@@ -1,5 +1,5 @@
 ﻿---
-sidebar_label: Activate Patch
+sidebar_label: 手动补丁激活
 ---
 
 # 手动补丁激活
