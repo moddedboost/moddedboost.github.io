@@ -5,12 +5,12 @@ sidebar_label: Changing Bursts
 # Changing Bursts
 There are 5 different types of bursts implemented in the game as follows:
 
-- [![fighting_burst.png](assets%2Fchange_burst%2Ffighting_burst.png) `Fighting Burst (F)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_38f8f443) 
-- [![shooting_burst.png](assets%2Fchange_burst%2Fshooting_burst.png) `Shooting Burst (S)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_ee979f13) 
-- [![mobility_burst.png](assets%2Fchange_burst%2Fmobility_burst.png) `Mobility Burst (M)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_1c66c33a) 
-- [![raging_burst.png](assets%2Fchange_burst%2Fraging_burst.png) `Raging Burst (R)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_68d14bdc)   
-- [![covering_burst.png](assets%2Fchange_burst%2Fcovering_burst.png) `Covering Burst (C)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_c47a5aec) 
-- [![vertical_burst.png](assets%2Fchange_burst%2Fvertical_burst.png) `Vertical Burst (V)`](https://w.atwiki.jp/exvs2ob/pages/26.html#id_e1189fca) 
+- [![](assets%2Fchange_burst%2Ffighting_burst.png) `Fighting Burst (F)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_38f8f443) 
+- [![](assets%2Fchange_burst%2Fshooting_burst.png) `Shooting Burst (S)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_ee979f13) 
+- [![](assets%2Fchange_burst%2Fmobility_burst.png) `Mobility Burst (M)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_1c66c33a) 
+- [![](assets%2Fchange_burst%2Fraging_burst.png) `Raging Burst (R)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_68d14bdc)   
+- [![](assets%2Fchange_burst%2Fcovering_burst.png) `Covering Burst (C)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_c47a5aec) 
+- [![](assets%2Fchange_burst%2Fvertical_burst.png) `Vertical Burst (V)`](https://w.atwiki.jp/exvs2ob/pages/26.html#id_e1189fca) 
 
 :::info
 
