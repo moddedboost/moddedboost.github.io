@@ -62,7 +62,7 @@ sidebar_label: 觉醒更换
 
 如果想要在这段时间里选择觉醒，请跟随以下步骤进行操作：
 
-1. 长按`Command（通讯）`键（默认为`L1`），然后按下`Down（下方向）`键 （间隔时间不可以太长）。
+1. 按下`Command（通讯）`键（默认为`L1`），然后按下`Down（下方向）`键 （间隔时间不可以太长）。
 
    ![burst_change_activated.png](assets%2Fchanging_bursts%2Fburst_change_activated.png)
     - 如果`Fighting Burst（格斗觉醒）`的图标刷新（表现为下降），则表示选择模式已成功激活.
