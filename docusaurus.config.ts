@@ -76,6 +76,11 @@ const config: Config = {
         },
         {
           position: 'left',
+          label: 'Mod',
+          to: '/docs/category/mod',
+        },
+        {
+          position: 'left',
           label: 'Support',
           to: '/docs/category/support',
         },
