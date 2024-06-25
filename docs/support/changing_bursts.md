@@ -5,12 +5,12 @@ sidebar_label: Changing Bursts
 # Changing Bursts
 There are 5 different types of bursts implemented in the game as follows:
 
-- [![](assets%2Fchange_burst%2Ffighting_burst.png) `Fighting Burst (F)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_38f8f443) 
-- [![](assets%2Fchange_burst%2Fshooting_burst.png) `Shooting Burst (S)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_ee979f13) 
-- [![](assets%2Fchange_burst%2Fmobility_burst.png) `Mobility Burst (M)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_1c66c33a) 
-- [![](assets%2Fchange_burst%2Fraging_burst.png) `Raging Burst (R)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_68d14bdc)   
-- [![](assets%2Fchange_burst%2Fcovering_burst.png) `Covering Burst (C)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_c47a5aec) 
-- [![](assets%2Fchange_burst%2Fvertical_burst.png) `Vertical Burst (V)`](https://w.atwiki.jp/exvs2ob/pages/26.html#id_e1189fca) 
+- [![](assets%2Fchanging_bursts%2Ffighting_burst.png) `Fighting Burst (F)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_38f8f443) 
+- [![](assets%2Fchanging_bursts%2Fshooting_burst.png) `Shooting Burst (S)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_ee979f13) 
+- [![](assets%2Fchanging_bursts%2Fmobility_burst.png) `Mobility Burst (M)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_1c66c33a) 
+- [![](assets%2Fchanging_bursts%2Fraging_burst.png) `Raging Burst (R)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_68d14bdc)   
+- [![](assets%2Fchanging_bursts%2Fcovering_burst.png) `Covering Burst (C)`](https://w.atwiki.jp/exvs2xb/pages/28.html#id_c47a5aec) 
+- [![](assets%2Fchanging_bursts%2Fvertical_burst.png) `Vertical Burst (V)`](https://w.atwiki.jp/exvs2ob/pages/26.html#id_e1189fca) 
 
 :::info
 
@@ -28,15 +28,15 @@ Due to the limitation on the game engine, it is almost impossible to change the 
 
 As a workaround for the issue, a system to allow players to change bursts before the game starts is developed, and the following article will introduce the ways to select them.
 
-## Shooting Burst ![](assets%2Fchange_burst%2Fshooting_burst.png)
+## Shooting Burst ![](assets%2Fchanging_bursts%2Fshooting_burst.png)
 If you wish to use `Shooting Burst`, please select **`Blast Burst`** from the menu.
 
-![blast_burst.png](assets%2Fchange_burst%2Fblast_burst.png)
+![blast_burst.png](assets%2Fchanging_bursts%2Fblast_burst.png)
 
-## Other Bursts ![](assets%2Fchange_burst%2Ffighting_burst.png) ![](assets%2Fchange_burst%2Fmobility_burst.png) ![](assets%2Fchange_burst%2Fraging_burst.png) ![](assets%2Fchange_burst%2Fcovering_burst.png) ![](assets%2Fchange_burst%2Fvertical_burst.png)
+## Other Bursts ![](assets%2Fchanging_bursts%2Ffighting_burst.png) ![](assets%2Fchanging_bursts%2Fmobility_burst.png) ![](assets%2Fchanging_bursts%2Fraging_burst.png) ![](assets%2Fchanging_bursts%2Fcovering_burst.png) ![](assets%2Fchanging_bursts%2Fvertical_burst.png)
 If you wish to use any other burst, please select **`Assault Burst`** from the menu.
 
-![assault_burst.png](assets%2Fchange_burst%2Fassault_burst.png)
+![assault_burst.png](assets%2Fchanging_bursts%2Fassault_burst.png)
 
 :::warning
 
@@ -52,33 +52,33 @@ From the moment your unit spawns in game until the standby phase is done, you ca
 
 - Spawn:
 
-   ![first_spawn.png](assets%2Fchange_burst%2Ffirst_spawn.png)
+   ![first_spawn.png](assets%2Fchanging_bursts%2Ffirst_spawn.png)
 
 - Standby ends:
 
-   ![standby_done.png](assets%2Fchange_burst%2Fstandby_done.png) 
+   ![standby_done.png](assets%2Fchanging_bursts%2Fstandby_done.png) 
 
 During these period, please follow the following steps between the specified period:
 
 1. Press `Command` button (defaults as `L1`), then `Down` button in sequence (please do not leave too long of a gap between).
 
-   ![burst_change_activated.png](assets%2Fchange_burst%2Fburst_change_activated.png)
+   ![burst_change_activated.png](assets%2Fchanging_bursts%2Fburst_change_activated.png)
    - If the `Fighting Burst` icon refreshes (goes down), it means that selection mode has been successfully activated. 
 
 2. Select your desired burst using `Up`, `Down`, `Left`, `Right` buttons, with the button mappings as follows:
 
     #### `Up ↑` 
-    ![](assets%2Fchange_burst%2Fcovering_burst.png) `Covering Burst`   
+    ![](assets%2Fchanging_bursts%2Fcovering_burst.png) `Covering Burst`   
     #### `Down ↓`
-    ![](assets%2Fchange_burst%2Ffighting_burst.png) `Fighting Burst`
+    ![](assets%2Fchanging_bursts%2Ffighting_burst.png) `Fighting Burst`
     #### `Left ←`
-    ![](assets%2Fchange_burst%2Fmobility_burst.png) `Mobility Burst`
+    ![](assets%2Fchanging_bursts%2Fmobility_burst.png) `Mobility Burst`
     #### `Right →`
-    ![](assets%2Fchange_burst%2Fraging_burst.png) `Raging Burst`
+    ![](assets%2Fchanging_bursts%2Fraging_burst.png) `Raging Burst`
 
 :::tip
 
-![vertical_burst.png](assets%2Fchange_burst%2Fvertical_burst.png) `Vertical Burst` is only implemented on limited units due to technical difficulties.
+![vertical_burst.png](assets%2Fchanging_bursts%2Fvertical_burst.png) `Vertical Burst` is only implemented on limited units due to technical difficulties.
 
 Here's the list of units with Vertical Burst implemented:
 
